@@ -14,7 +14,7 @@
 using namespace std;
 
 struct test {
-    int i;
+    int integerVariable;
     string str;
 
 };
