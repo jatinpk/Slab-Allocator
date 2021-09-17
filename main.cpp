@@ -15,7 +15,7 @@ using namespace std;
 
 struct test {
     int i;
-    string s;
+    string str;
 
 };
 
